@@ -10,3 +10,6 @@ def zwn(request):
 
 def lyj(request):
     return render(request,'lyj.html')
+
+def xcp(request):
+    return render(request,'xcp.html')
