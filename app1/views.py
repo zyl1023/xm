@@ -7,3 +7,6 @@ def index(request):
 
 def zwn(request):
     return render(request,'zwn.html')
+
+def lyj(request):
+    return render(request,'lyj.html')
