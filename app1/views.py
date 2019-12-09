@@ -13,3 +13,7 @@ def lyj(request):
 
 def xcp(request):
     return render(request,'xcp.html')
+
+
+def zyl(request):
+    return render(request,"zyl.html")
